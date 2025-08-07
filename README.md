@@ -27,8 +27,6 @@
 - Time taken by each algorithm
 - Insightful performance summaries
 
-
-
 ### ⚙️ User-Customizable Controls
 
 - Choose from multiple algorithm types
